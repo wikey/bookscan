@@ -1,0 +1,1 @@
+The scanned images stored here are are all from books that are either in the public domain or under one of the various appropriate Creative Commons licenses. Please check the `LICENSE.txt` file in each book's directory for details.
