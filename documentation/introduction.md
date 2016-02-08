@@ -1,7 +1,7 @@
 # Introduction 
 
 Why digitize your books?
-- Public domain [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
+- Share public domain books. See: [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page)
 - Portability (keep all your books on your phone or laptop.)
 - Accessibility (after OCRing, books become accessible for text to speech and other accessibility tools)
 - Preserve books that are disintegrating because of acid paper or other difficulties.
