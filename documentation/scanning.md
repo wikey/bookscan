@@ -1,4 +1,4 @@
-*[Return to Introduction](https://github.com/wikey/bookscan/blob/master/documentation/introduction.md)*
+*[Return to Introduction](https://github.com/wikey/bookscan/blob/master/documentation/README.md)*
 
 # Scanning (getting the page images)
 
