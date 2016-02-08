@@ -1,4 +1,4 @@
-*[Return to Post-processing](https://github.com/wikey/bookscan/blob/master/documentation/post-processing.md)*
+*[Return to Scanning](./scanning.md)*
 
 # Image processing (Scantailor)
 
@@ -34,4 +34,4 @@ This step is where the biggest tradeoffs are going to come for your images. If i
 
 Once you have finished processing all your scan images with scantailor you are ready to author your scantailor output into a single pdf or djvu file. 
 
-*View instructions on individual tools in the [Documentation section](https://github.com/wikey/bookscan/tree/master/documentation)*
+*Continue to [Book Authoring](./book-authoring.md)*
