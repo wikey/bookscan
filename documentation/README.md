@@ -10,13 +10,13 @@ The basic steps of book digitizing are: scanning the pages, processing the page 
 
 ### Why free software?
 
-I think it important to share technology, to learn tools that you can give to someone else without asking someone else's permission, to be able to run events like this. This is the difference between knowing how to cook and knowing how to order at a restaurant. You do not need to become a professional chef to make delicious food, even basic skills will make you significantly more capable and independent. Those are the kind of skills you learn with free software, the ones that stay with you and expand your horizons. 
+I think it important to share technology, to learn tools that you can give to anyone without asking someone else's permission, to be able to run events like [this](http://dhweek.nycdh.org/event/book-digitization-and-post-processing/). This is the difference between knowing how to cook and knowing how to order at a restaurant. You do not need to become a professional chef to make delicious food, even basic skills will make you significantly more capable and independent. Those are the kind of skills you learn with free software, the ones that stay with you and expand your horizons. 
 
 What we will learn:
 
 pdftk - all purpose PDF manipulation tool
 
-ImageMagic - all purpose image convention/processing tool
+ImageMagic - all purpose image convertion/processing tool
 
 [Scantailor](https://github.com/wikey/bookscan/blob/master/documentation/post-processing.md) - post processing tool for scanned page images
 
