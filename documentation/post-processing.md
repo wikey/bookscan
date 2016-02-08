@@ -24,6 +24,11 @@ After you have run through the `Content Selection` and `Margins` steps on all yo
 
 The default mode, "Black and White" takes all the pixels in your image and converts them either to pure white or pure black. This is equivalent to the image processing step known as "thresholding". The result is that text borders are made very sharp, uneven lightning effects are generally removed, and the file size is hugely decreased. Images made of only pure white and black, called bitonal images, can be represented using much less information than ones with complex colors and shades but many kinds of detail can be effected.
 
+As an example of the power of this type of image processing, look at these before and after images of a camera-captured book page from a very yellowed book:
+
+![Raw page image](screenshots/Example-bklib-before.png)
+![scantailored image](screenshots/Example-bklib-after.png)
+
 This step is where the biggest tradeoffs are going to come for your images. If images are too poorly lit or there are too many marks on a page, you may lose definition on some of the page writing. Generally, the better your scans, the less you will lose during this stage. If things get particularly bad, you may need to re-scan some of your pages or you may need to switch to a different page mode and make due with larger file size results.  
 
 `Color / Grayscale` mode will preserve all of the details in your original page images. While this means that you can preserve every detail, it also means that you will preserve every defect. All that extra information will make your final files larger and much less clear. Ideally you would only do this for individual pages with illustrations or other fine detail.
