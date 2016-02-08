@@ -1,4 +1,4 @@
-[Return to Post-processing](../post-processing)
+[Return to Post-processing](./post-processing.md)
 
 # Book file authoring
 
