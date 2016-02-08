@@ -16,7 +16,7 @@ What we will learn:
 
 pdftk - all purpose PDF manipulation tool
 
-ImageMagic - all purpose image convertion/processing tool
+ImageMagic - all purpose image conversion/processing tool
 
 [Scantailor](https://github.com/wikey/bookscan/blob/master/documentation/post-processing.md) - post processing tool for scanned page images
 
