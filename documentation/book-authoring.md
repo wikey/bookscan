@@ -1,4 +1,4 @@
-[Return to Post-processing]()
+[Return to Post-processing](../post-processing)
 
 # Book file authoring
 
@@ -20,3 +20,4 @@ When authoring book files you have two primary formats to choose from: pdf and d
 
 Both pdfbeads and djvubind can use the same free OCR engines: tesseract or cuneiform. Both can also include bookmarks for different chapters and metadata to indicate title, author, and other general information about a book.  The format for these bookmark and metadata files are a little bit different from each other but it is possible to write one file for each and just convert the second copy. Look for the `bookmetaconvert.sh` script in the scripts folder for a working example script.
 
+*[Continue to documentation for pdfbeads](./pdfbeads.md)*
