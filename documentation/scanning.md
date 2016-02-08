@@ -1,4 +1,4 @@
-*[Return to Introduction](https://github.com/wikey/bookscan/blob/master/documentation/README.md)*
+*[Return to Introduction](./README.md)*
 
 # Scanning (getting the page images)
 
@@ -53,4 +53,4 @@ You may or may not come to agree with me that destructive scanning can be a form
 * compress for archiving (7zip)
 qq size range for compressed file size.
 
-*[Continue to Post-processing](https://github.com/wikey/bookscan/blob/master/documentation/post-processing.md)*
+*[Continue to Post-processing](./post-processing.md)*
