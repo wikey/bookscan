@@ -18,9 +18,9 @@ pdftk - all purpose PDF manipulation tool
 
 ImageMagic - all purpose image convention/processing tool
 
-Scantailor - post processing tool for scanned page images
+[Scantailor](https://github.com/wikey/bookscan/blob/master/documentation/post-processing.md) - post processing tool for scanned page images
 
-pdfbeads - PDF authoring tool optimized for books
+[pdfbeads](https://github.com/wikey/bookscan/blob/master/documentation/pdfbeads.md) - PDF authoring tool optimized for books
 
 *command line*: we will also be getting a very brief introduction to the command line as part of learning these tools.
 
