@@ -42,4 +42,4 @@ Keep backups! This is *vital* with destructive scanning where you may no longer 
 
 Check every page at least once when processing a book just to make sure you have them all and that you have not cut off or failed to properly light any important parts of the page. After your first couple of books, you should be able to do this by quickly paging through all the images. I check once right after scanning and once at the end of processing.
 
-[Continue to Scanning]()
+[Continue to Scanning](https://github.com/wikey/bookscan/blob/master/documentation/scanning.md)

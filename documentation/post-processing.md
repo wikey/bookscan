@@ -1,3 +1,5 @@
+*[Return to Post-processing](https://github.com/wikey/bookscan/blob/master/documentation/post-processing.md)*
+
 # Image processing (Scantailor)
 
 [Scantailor](http://scantailor.org/) describes itself as an:
@@ -31,3 +33,5 @@ This step is where the biggest tradeoffs are going to come for your images. If i
 **Important**: Always keep your scantailor project file! I encourage you to save all of your intermediate files too, like the scantailor output files, but if you save nothing else, your raw page scans and your scantailor file are enough to regenerate everything else so save them and back them up.
 
 Once you have finished processing all your scan images with scantailor you are ready to author your scantailor output into a single pdf or djvu file. 
+
+*View instructions on individual tools in the [Documentation section](https://github.com/wikey/bookscan/tree/master/documentation)*
