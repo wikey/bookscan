@@ -34,7 +34,7 @@ Flatbed scanning generally involves pressing an open book against a flatbed scan
 
 If this is your first time scanning a book I suggest using the whatever equipment you can find already available to you. The more you scan books, the better you will understand the considerations that are most important to you and be able to decide what more specialized tools will work best in your situation.
 
-However you capture page images, do yourself a favor and **keep your unprocessed image files** in whatever format you get them from your scanner or camera. While your ideal images will not use a compressed image format like jpg, once you have the files you can absolutely add them to a zip or other compressed archive. I keep all my image archives in  [7zip](https://en.wikipedia.org/wiki/7-Zip) format, which is a free general compression tool available for all major operating systems. *Note* that image files which are inherently compressed like jpg, generally do not compress very well inside archives, even using 7zip.
+However you capture page images, do yourself a favor and **keep your unprocessed image files** in whatever format you get them from your scanner or camera. While your ideal images will not use a compressed image format like jpg, once you have the files you can absolutely add them to a zip or other compressed archive for storage. I keep all my image archives in  [7zip](https://en.wikipedia.org/wiki/7-Zip) format, which is a free general compression tool available for all major operating systems. Uncompressed tifs for a whole book can take up anywhere from 400 MB up to 1.5 GB or more but these will shrink dramatically when you zip them. Using 7zip, my 400 MB directory compressed down to 56 MB and the 1.5 Gb one compressed down to 200 MB. At those sizes you can keep a whole bookcase of raw scans on a tiny thumb drive. *Note* that image files which are inherently compressed like jpg, generally do not compress very well inside archives, even using 7zip.
 
 ### How big should you scan?
 300 DPI for text, 600 for images. If you are using cameras for scanning, the DPI will depend on how many Mega Pixels (MP) your camera's sensor can capture and how far away your camera is from the page being photographed. You can take a look at this [MP to DPI conversion chart](http://unlikelymoose.com/more/cameras/megapixel_converter.html) for details or keep in mind that a 12MP camera can capture a roughly 14"x10" area at the 300 DPI you want for text. That should be enough for most text-based books to photograph at a distance of 1' or 2'. 
@@ -46,11 +46,7 @@ At the beginning, many new book scanners are horrified at the idea of destructiv
 
 Personally, while I enjoy the physical act of reading paper, most of my books were of interest to me only for their content and I had no interest in storing and caring for cases of paper in order to have that content available to read. Eventually I came to realize that the majority of books I wanted to physically preserve were old paperbacks printed on paper with a high enough acid content that they were literally disintegrating while sitting on the shelf.
 
-You may or may not come to agree with me that destructive scanning can be a form of preservation. Regardless, whether you seek to preserve the physical objects of books or only the content they contain, know that both are common goals in the book digitization community and both positions are welcome.
+You may or may not come to agree with me that destructive scanning can be a form of preservation. Regardless, whether you seek to preserve the physical book objects or only the content they contain, know that both are common goals in the book digitization community and both positions are welcome.
 
-
-* always keep your raws!
-* compress for archiving (7zip)
-qq size range for compressed file size.
 
 *[Continue to Post-processing](./post-processing.md)*
