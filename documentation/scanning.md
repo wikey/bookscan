@@ -15,24 +15,27 @@ Different scanning methods have their own pros and cons when it comes to produci
 ### Destructive (USB scanner)
 
 Destructive scanning involves removing the pages from their binding, generally by cutting the binding off or, *carefully*, ripping pages out individually. Once pages are removed from the binding they can be fed through a USB or standalone sheet-fed scanner. This method produces the most ideal page images.
-        Pros: Lighting is perfect, pages are flat, faster than flatbed (~1000-1200 pages/hour), general purpose scanner you can use for other tasks, pages are recyclable, you no longer have books afterwards.
-       Cons: You no longer have book afterwards, you need to remove spine (rip, cut, pay someone else), you may need to flip through sheets to verify separation or risk page tearing while scanning. 
+
+**Pros**: Lighting is perfect, pages are flat, faster than flatbed (~1000-1200 pages/hour), general purpose scanner you can use for other tasks, pages are recyclable, you no longer have books afterwards.      
+**Cons**: You no longer have book afterwards, you need to remove spine (rip, cut, pay someone else), you may need to flip through sheets to verify separation or risk page tearing while scanning. 
 
 ### Flatbed
 
-Flatbed scanning generally involves pressing an open book against a flatbed scanner to copy a two page spread. Some specialty book flatbed scanners exist that allow for flat single page scans, not that these are generally more expensive and at least twice as slow as the following estimates. 
-        Pros: Widely available, does not destroy book.
-        Cons: Cumbersome and slower than other means of scanning (~500-600 pages/hour), page images are severely warped at binding,  damages spine.
+Flatbed scanning generally involves pressing an open book against a flatbed scanner to copy a two page spread. Some specialty book flatbed scanners exist that allow for flat single page scans, note that these are generally more expensive and at least twice as slow as the following estimates because they only scan one page at a time instead of two. 
+
+**Pros**: Widely available, does not destroy book.     
+**Cons**: Cumbersome and slower than other means of scanning (~500-600 pages/hour), page images are severely warped at binding, damages spine.
 
 ### Camera mount-based scanning
 
 ([bookliberator](http://bookliberator.com/),[diybookscanner](http://diybookscanner.org/), et al).
 
-   Camera based scanning involves taking pictures of individual book pages using standard digital cameras. This is generally accomplished through use of special camera mounts that flatten the pages opposite from the camera to eliminate page curvature. A handful of versions are available commercially but most are do it yourself projects of varying complexity.
-       Pros: Easy on books, faster than flatbed (~900-1200 pages/hour), page images have little or no warping at the spine. Cool.
-       Cons: More DIY effort required, custom equipment to build/buy, have to control lighting, may require more effort to operate, may only produce compressed jpg images.
+Camera based scanning involves taking pictures of individual book pages using standard digital cameras. This is generally accomplished through use of special camera mounts that flatten the pages opposite from the camera to eliminate page curvature. A handful of versions are available commercially but most are do it yourself projects of varying complexity.
+   
+**Pros**: Easy on books, faster than flatbed (~800-1200 pages/hour), page images have little or no warping at the spine. Cool.      
+**Cons**: More DIY effort required, custom equipment to build/buy, have to control lighting, may require more effort to operate, may only produce compressed jpg images.
 
-If this is your first time scanning a book I suggest using the whatever equipment you can find already available to you. The more you scan books, the better you will understand the considerations that are most important to you and be able to decide what more specialized tools will work best in your situation.
+If this is your first time scanning a book I suggest using whatever equipment you can find already available to you before investing heavily in new equipment of any type. The more you scan books, the better you will understand the considerations that are most important to you and be able to decide what more specialized tools will work best in your situation.
 
 However you capture page images, do yourself a favor and **keep your unprocessed image files** in whatever format you get them from your scanner or camera. While your ideal images will not use a compressed image format like jpg, once you have the files you can absolutely add them to a zip or other compressed archive for storage. I keep all my image archives in  [7zip](https://en.wikipedia.org/wiki/7-Zip) format, which is a free general compression tool available for all major operating systems. Uncompressed tifs for a whole book can take up anywhere from 400 MB up to 1.5 GB or more but these will shrink dramatically when you zip them. Using 7zip, my 400 MB directory compressed down to 56 MB and the 1.5 Gb one compressed down to 200 MB. At those sizes you can keep a whole bookcase of raw scans on a tiny thumb drive. *Note* that image files which are inherently compressed like jpg, generally do not compress very well inside archives, even using 7zip.
 
