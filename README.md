@@ -3,7 +3,7 @@ Documentation and scripts for book scanning using free software tools.
 
 **Start here**: [Introduction](documentation/README.md).
 
-This poject is organized into the following two main areas:
+This project is organized into the following two main areas:
  * [documentation](https://github.com/wikey/bookscan/tree/master/documentation): learn about how to scan books and how to bind those scanned images into a pdf or [djvu](https://en.wikipedia.org/wiki/DjVu) file.
  * [scripts](https://github.com/wikey/bookscan/tree/master/scripts): useful commands and utility scripts to make working with scanned page images easier (*not* the main software you need, just some accessories).
 
